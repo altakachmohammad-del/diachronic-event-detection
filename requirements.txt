@@ -1,0 +1,7 @@
+torch
+transformers
+ruptures
+scikit-learn
+matplotlib
+pandas
+tqdm
