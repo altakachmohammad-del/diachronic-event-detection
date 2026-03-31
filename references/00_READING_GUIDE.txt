@@ -1,0 +1,25 @@
+# Reading Guide: Diachronic Event Detection & Contextual Embeddings
+
+This directory contains key research papers and a guide to the methodology used in this project.
+
+## Key Papers
+
+1. **"Diachronic Contextualized Word Embeddings"** (Hu et al., 2019)
+   - Methodology for tracking semantic shift using BERT.
+   - Foundation for our embedding extraction pipeline.
+
+2. **"Dynamic Word Embeddings for Evolving Semantic Spaces"** (Bamler & Mandt, 2017)
+   - Probabilistic models for temporal word embeddings.
+
+3. **"Exploitation of Contextualized Embeddings for Diachronic Analysis"** (Martinc et al., 2020)
+   - Comparing BERT and other models for legal and news text analysis over time.
+
+4. **"Event Detection in Social Media using Contextualized Embeddings"**
+   - Practical applications of the methods developed in this repo.
+
+## Methodology Overview
+
+Our pipeline follows these steps:
+1. **Extraction**: Using src/01_extract_embeddings.py to get BERT/CamemBERT representations for specific entities across different time periods.
+2. **Analysis**: Using src/02_change_point_detection.py to identify significant shifts in the embedding space (PELT algorithm).
+3. **Visualization**: Using src/03_visualize.py to generate trajectory plots and similarity matrices.
