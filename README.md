@@ -99,4 +99,4 @@ MIT License
 
 - **LIASD** (Laboratoire d'Informatique Avancee de Saint-Denis) - Universite Paris 8
 - **INA** (Institut National de l'Audiovisuel)
-- Supervisor: Abdelkrim Beloued
+- Supervisors: Aurélien Bossard (LIASD) & Abdelkrim Beloued (INA)
