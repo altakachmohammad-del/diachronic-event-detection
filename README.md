@@ -2,7 +2,7 @@
 
 > **M2 Research Internship** — LIASD (Universite Paris 8) & INA (Institut National de l'Audiovisuel)
 >
-> Supervisor: Abdelkrim Beloued (INA) | Laboratory: LIASD
+> **Intern:** Mohammed Al-Takach | **Supervisors:** Aurélien Bossard (LIASD) & Abdelkrim Beloued (INA)
 
 ## Overview
 
