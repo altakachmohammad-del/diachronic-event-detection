@@ -40,7 +40,7 @@ When the contextual embedding of a named entity **shifts dramatically** between 
 
 ### 2. Change-Point Detection
 - Compute cosine distance between consecutive temporal embeddings
-- Apply detection algorithms: Threshold-based, PELT, Binary Segmentation 
+- Apply detection algorithms: Threshold-based, PELT, Binary Segmentation
 
 ### 3. Visualization
 - Distance time series with detected events marked
